@@ -1,6 +1,8 @@
 # Energy-Meter
 #First challenge as part of https://scrimba.com/learn/weeklychallenge
 
+#showcase: https://mai-ampja-tempa.github.io/Energy-Meter/
+
 #Challenges Requirements
 Value bar change according to the number input
 - title
